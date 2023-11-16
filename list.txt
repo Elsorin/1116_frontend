@@ -6,3 +6,7 @@ exchange는 proxy cors 안됨으로 걍 두나무 꺼... 여러번 호출... 분
 모든 링크는 <Link to="/account" className='me-5'>조회</Link> 형태로!
 
 container width 1600 으로 수정
+
+
+
+npm run build && firebase deploy
